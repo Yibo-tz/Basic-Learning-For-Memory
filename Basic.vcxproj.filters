@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="数组.cpp">
+    <ClCompile Include="一维数组的定义.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="一维数组——数组名用途.cpp">
