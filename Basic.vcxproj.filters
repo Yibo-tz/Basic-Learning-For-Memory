@@ -24,5 +24,8 @@
     <ClCompile Include="五只小猪称体重.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="数组元素逆置.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
