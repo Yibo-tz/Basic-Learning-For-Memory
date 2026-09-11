@@ -39,5 +39,8 @@
     <ClCompile Include="二维数组应用案例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数的定义.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
