@@ -48,5 +48,8 @@
     <ClCompile Include="值传递.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="函数的常见样式.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
