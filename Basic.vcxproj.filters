@@ -13,46 +13,75 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\分文件前的代码">
+      <UniqueIdentifier>{02b68d04-1c01-429c-8743-a9b840a615fb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="一维数组的定义.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="值传递.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
     </ClCompile>
     <ClCompile Include="一维数组——数组名用途.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="一维数组的定义.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
     </ClCompile>
     <ClCompile Include="五只小猪称体重.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="数组元素逆置.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\分文件前的代码</Filter>
     </ClCompile>
     <ClCompile Include="冒泡排序.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\分文件前的代码</Filter>
     </ClCompile>
-    <ClCompile Include="二维数组.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二维数组的数组名.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="二维数组应用案例.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="函数的定义.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="函数的调用.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="值传递.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="函数的常见样式.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="数组元素逆置.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
     </ClCompile>
     <ClCompile Include="函数的声明.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的定义.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的调用.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的常见样式.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组应用案例.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组的数组名.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="二维数组.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="exchange.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="指针.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="函数的分文件编写.cpp">
+      <Filter>源文件\分文件前的代码</Filter>
+    </ClCompile>
+    <ClCompile Include="冒泡函数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exchange.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="冒泡函数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Others.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
