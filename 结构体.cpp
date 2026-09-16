@@ -28,10 +28,7 @@ int main() {
 	s1.score = 100;
 	std::cout << "姓名：" << s1.name << "\t年龄：" << s1.age << "\t分数：" << s1.score << std::endl;
 	
-	struct student s2;
-	s2.name = "李四";
-	s2.age = 14;
-	s2.score = 1;
+	//struct student s2={……}
+	struct student s2 = { "李四",19,80 };
 	std::cout << "姓名：" << s2.name << "\t年龄：" << s2.age << "\t分数：" << s2.score << std::endl;
-
 }
