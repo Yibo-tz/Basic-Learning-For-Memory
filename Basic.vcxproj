@@ -186,8 +186,13 @@
     <ClCompile Include="数组元素逆置.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
-    <ClCompile Include="结构体.cpp" />
-    <ClCompile Include="结构体数组.cpp" />
+    <ClCompile Include="结构体.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="结构体指针.cpp" />
+    <ClCompile Include="结构体数组.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exchange.h" />
