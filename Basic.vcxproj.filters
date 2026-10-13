@@ -87,6 +87,12 @@
     <ClCompile Include="结构体中const使用场景.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="结构体案例1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="结构体案例2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exchange.h">

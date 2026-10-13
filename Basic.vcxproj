@@ -204,6 +204,10 @@
     <ClCompile Include="结构体做函数参数.cpp">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="结构体案例1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="结构体案例2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exchange.h" />
