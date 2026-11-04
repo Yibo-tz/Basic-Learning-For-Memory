@@ -90,7 +90,7 @@
     <ClCompile Include="结构体案例1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="结构体案例2.cpp">
+    <ClCompile Include="通讯录管理系统.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
